@@ -1,0 +1,7 @@
+name: Bug
+description: File a Bug/Issue
+title:  "[Bug] <title>"
+labels: "[Bug, Needs Triage]"
+body:
+  - type: checkboxes
+  
