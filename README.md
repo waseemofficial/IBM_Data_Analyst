@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/github/license/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/{env.}.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/{env.}.svg?style=flat" />
+<img src="https://img.shields.io/github/license/waseemofficial/IMB_Data_Analyst.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/IMB_Data_Analyst.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/IMB_Data_Analyst.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/IMB_Data_Analyst.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/IMB_Data_Analyst.svg?style=flat" />
 </div>
 
 <div align="center"> 
